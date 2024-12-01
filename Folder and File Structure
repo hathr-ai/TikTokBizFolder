@@ -1,0 +1,14 @@
+tiktok-business-rankings/
+│
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+│
+├── src/
+│   ├── App.js
+│   ├── index.js
+│   └── index.css
+│
+├── package.json
+├── README.md
+└── tailwind.config.js
